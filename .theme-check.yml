@@ -1,0 +1,8 @@
+root: .
+extends: :nothing
+include_categories:
+  - Liquid
+  - Performance
+  - Accessibility
+exclude_categories:
+  - Deprecation
